@@ -3,7 +3,7 @@
 ## 📄 鸣谢
 
 基于daily_stock_analysis项目进行二次开发，
-- GitHub Issues：[提交 Issue](https://github.com/ZhuLinsen/daily_stock_analysis/issues)
+- 感谢：@ZhuLinsen 提供的思路
 
 # 📈 股票智能分析系统
 
