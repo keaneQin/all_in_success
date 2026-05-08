@@ -1,6 +1,6 @@
 <div align="center">
 
-## 📄 License
+## 📄 鸣谢
 
 基于daily_stock_analysis项目进行二次开发，
 - GitHub Issues：[提交 Issue](https://github.com/ZhuLinsen/daily_stock_analysis/issues)
